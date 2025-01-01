@@ -1213,7 +1213,7 @@ section,
 # Appointment Section
 --------------------------------------------------------------*/
 .appointment{
-  background-image: url("/assets/img/group-happy-doctors.jpg");
+  background-image: url("/assets/img/appointment-img.jpg");
   /* background-size: cover; */
 }
 .appointment .php-email-form {
